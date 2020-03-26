@@ -1,6 +1,6 @@
-def parrot(name, )
+def parrot(name)
  puts  "#{name}!"
- return phrase
+ return "Squawk!"
 end
 
 parrot("Pretty bird")
